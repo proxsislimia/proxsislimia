@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 620">
+<rect width="1100" height="620" rx="30" fill="#101010"/>
+<rect x="65" y="80" width="290" height="360" rx="22" fill="#b91818"/>
+<rect x="405" y="80" width="290" height="360" rx="22" fill="#181818" stroke="#2e2e2e" stroke-width="3"/>
+<rect x="745" y="80" width="290" height="360" rx="22" fill="#f4f4f4"/>
+<rect x="110" y="130" width="200" height="28" rx="14" fill="#fff"/>
+<rect x="110" y="185" width="160" height="18" rx="9" fill="#fff" opacity=".75"/>
+<rect x="110" y="225" width="125" height="18" rx="9" fill="#fff" opacity=".5"/>
+<rect x="450" y="130" width="200" height="28" rx="14" fill="#b91818"/>
+<rect x="450" y="185" width="170" height="18" rx="9" fill="#fff" opacity=".86"/>
+<rect x="450" y="225" width="132" height="18" rx="9" fill="#fff" opacity=".5"/>
+<circle cx="890" cy="205" r="88" fill="#b91818"/>
+<path d="M855 205l22 22 48-58" stroke="#fff" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="550" y="540" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">Reliable construction process from planning to completion</text>
+</svg>
